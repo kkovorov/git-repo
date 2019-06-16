@@ -1,5 +1,5 @@
 a=5
 b=7
 c=a+b
-print("Hello World")
-Print("Hola el Mundo")
+print("Hello World;")
+Print("Hola el Mundo;")
